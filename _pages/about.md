@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm an undergraduate student at the University of Tokyo.
+I'm an undergraduate student at the University of Tokyo, Faculty of Medicine.
