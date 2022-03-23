@@ -69,8 +69,12 @@
       <p><a href=" {{ post.paperurl }} ">paper</a></p>
     {% endif %}
     -->
-    {% if post.demo %}
-    <a href=" {{ post.paperurl }} ">paper</a> <a href=" {{ post.demo }} ">demo</a>
+    {% if post.demo and post.code %}
+    <a href=" {{ post.paperurl }} ">paper</a> <a href=" {{ post.code }} ">code</a> <a href=" {{ post.demo }} ">demo</a>
+    {% elsif post.demo %}
+    <a href=" {{ post.paperurl }} ">paper</a> <a href=" {{ post.code }} ">code</a> <a href=" {{ post.demo }} ">demo</a>
+    {% elsif post.code %}
+    <a href=" {{ post.paperurl }} ">paper</a> <a href=" {{ post.code }} ">code</a>
     {% else %}
     <a href=" {{ post.paperurl }} ">paper</a>
     {% endif %}

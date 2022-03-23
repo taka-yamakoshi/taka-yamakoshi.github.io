@@ -6,5 +6,6 @@ excerpt: 'Paper Description'
 date: '2022-05-22'
 venue: 'the Findings of Association for Computational Linguistics (ACL)'
 paperurl: 'https://arxiv.org/abs/2202.12226'
-demo: '/projects/bert-prior'
+code: 'https://github.com/taka-yamakoshi/TelephoneGame'
+demo: 'https://huggingface.co/spaces/taka-yamakoshi/bert-priors-demo'
 ---
