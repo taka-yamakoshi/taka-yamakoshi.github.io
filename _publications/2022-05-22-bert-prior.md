@@ -5,6 +5,8 @@ collection: publications
 permalink: /publication/bert-prior
 excerpt: 'Paper Description'
 date: '2022-05-22'
+status: 'published'
+year: '2022'
 venue: 'the Findings of Association for Computational Linguistics (ACL)'
 paperurl: 'https://aclanthology.org/2022.findings-acl.314/'
 code: 'https://github.com/taka-yamakoshi/TelephoneGame'
