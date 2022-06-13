@@ -1,5 +1,6 @@
 ---
 title: "Probing BERT’s priors with serial reproduction chains"
+authors: "<b>T Yamakoshi</b>, TL Griffiths, RD Hawkins"
 collection: publications
 permalink: /publication/bert-prior
 excerpt: 'Paper Description'
