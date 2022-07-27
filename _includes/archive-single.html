@@ -26,11 +26,17 @@
       </div>
     {% endif %}
 
+
+    {% if post.show_year %}
+      <h2>
+        {{post.year}}
+      </h2>
+    {% endif %}
     <h2 class="content">
       {{title}}
     </h2>
 
-    <p>
+    <p style="margin-left: 1em;">
       {{post.authors}}<br>
       {% if post.status == 'published' %}
         <i>{{post.venue}}</i>, {{post.year}}<br>
