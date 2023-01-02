@@ -8,7 +8,7 @@ date: '2022-06-09'
 year: '2022'
 status: 'submitted'
 #venue: ''
-paperurl: 'https://www.biorxiv.org/content/10.1101/2022.06.08.495348v1'
+paperurl: 'https://www.biorxiv.org/content/10.1101/2022.06.08.495348v2'
 code: 'https://github.com/tsumers/bert-brains'
 show_year: true
 ---
