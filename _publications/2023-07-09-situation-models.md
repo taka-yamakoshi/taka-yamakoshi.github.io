@@ -8,7 +8,7 @@ date: '2023-07-09'
 year: '2023'
 status: 'published'
 venue: 'the Findings of Association for Computational Linguistics (ACL)'
-paperurl: 'https://arxiv.org/abs/2306.03882'
+paperurl: 'https://aclanthology.org/2023.findings-acl.839/'
 code: 'https://github.com/taka-yamakoshi/situation-models'
 demo: 'https://huggingface.co/spaces/taka-yamakoshi/causal-intervention-demo'
 show_year: true
