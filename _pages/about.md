@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<p>I'm a 5th year undergraduate student at the University of Tokyo, Faculty of Medicine.
-I was an exchange student at Princeton University (2019-20) and I'm part of the UTokyo-Princeton Strategic Partnership (2022-23). </p>
+<p>I'm a 5th year undergraduate student at the University of Tokyo, Faculty of Medicine. <br>
+I was an exchange student at Princeton University (2019-20) and part of the UTokyo-Princeton Strategic Partnership (2022-23). </p>
 
 <p>My current research aims to identify the internal mechanisms of language processing by humans and machines. <br>
 To this end, I have employed three different approaches. <br>
