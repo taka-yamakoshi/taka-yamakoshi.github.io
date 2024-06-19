@@ -11,4 +11,5 @@ venue: 'the Findings of Association for Computational Linguistics (ACL)'
 paperurl: 'https://aclanthology.org/2022.findings-acl.314/'
 code: 'https://github.com/taka-yamakoshi/TelephoneGame'
 demo: 'https://huggingface.co/spaces/taka-yamakoshi/bert-priors-demo'
+show_year: true
 ---

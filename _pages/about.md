@@ -12,7 +12,7 @@ redirect_from:
 I was an exchange student at Princeton University (2019-20) and part of the UTokyo-Princeton Strategic Partnership (2022-23). </p>
 
 <p>My current research aims to identify the internal mechanisms of language processing by humans and machines. <br>
-To this end, I have employed three different approaches. <br>
+To this end, I have employed the following three approaches. <br>
 [1] Compare the linguistic behavior of language models against that of humans. <br>
 [2] Identify the causal mechanism inside the language models. <br>
 [3] Compare the internal representations of language models against neural recordings. </p>
