@@ -1,5 +1,5 @@
 ---
-title: "Causal interventions expose implicit situation models for commonsense language understanding"
+title: "Causal interventions expose implicit situation models for commonsense language understanding."
 authors: "<b>T Yamakoshi</b>, JL McClelland, AE Goldberg, RD Hawkins"
 collection: publications
 permalink: /publication/situation-models

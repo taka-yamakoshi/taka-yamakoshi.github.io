@@ -29,18 +29,13 @@
     {% if post.show_year %}
     <h2 style="font-size: 1.5em"><b>{{post.year}}</b></h2>
     {% endif %}
-    <font size="5"><b>{{title}}</b></font><br>
 
-    <span style="margin-left: 1em;">
-      {{post.authors}}<br>
-    </span>
-    <span style="margin-left: 1em;">
-      {% if post.status == 'published' %}
+    {{post.authors}}. <b>{{title}}</b>
+    {% if post.status == 'published' %}
         <i>{{post.venue}}</i><br>
       {% else %}
         <i>{{post.status}}</i><br>
-      {% endif %}
-    </span>
+    {% endif %}
     <span style="margin-left: 1em;">
       {% if post.demo and post.code %}
       <a href=" {{ post.paperurl }} " target="_blank">paper</a> <a href=" {{ post.code }} " target="_blank">code</a> <a href=" {{ post.demo }} " target="_blank">demo</a>

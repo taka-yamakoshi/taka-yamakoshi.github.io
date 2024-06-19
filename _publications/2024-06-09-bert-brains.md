@@ -1,5 +1,5 @@
 ---
-title: "Shared functional specialization in transformer-based language models and the human brain"
+title: "Shared functional specialization in transformer-based language models and the human brain."
 authors: "S Kumar*, TR Sumers*, <b>T Yamakoshi</b>, A Goldstein, U Hasson, KA Norman, TL Griffiths, RD Hawkins, SA Nastase"
 collection: publications
 permalink: /publication/bert-brains

@@ -1,5 +1,5 @@
 ---
-title: "Investigating representations of verb bias in neural language models"
+title: "Investigating representations of verb bias in neural language models."
 authors: "RD Hawkins*, <b>T Yamakoshi*</b>, TL Griffiths, AE Goldberg"
 collection: publications
 permalink: /publication/neural-constructions
